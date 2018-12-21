@@ -6,10 +6,8 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://localhost",
-            "serverInstance": "BC130",
-            "authentication": "UserPassword",
-            "startupObjectId": 22,
-            "startupObjectType": "Page",
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows",
             "breakOnError": true
         }
     ]
